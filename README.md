@@ -1,2 +1,0 @@
-bootstrap-united-theme-sass
-===========================
