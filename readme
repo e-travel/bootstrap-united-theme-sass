@@ -1,0 +1,12 @@
+########################
+#Bootstrap United Theme#
+########################
+
+A sass version for the bootstrap united theme
+
+1) Add the variables.css.scss file to app/assets/stylesheets
+2) Add the line 
+	 @import 'bootstrap/variables';
+   to the top of the file.
+3) Then add the line
+	 @import 'variables.css.scss';
